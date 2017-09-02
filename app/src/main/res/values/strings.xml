@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="new_mascota_label">Nueva Mascota</string>
+    <string name="label_edit_mascota">Editar Mascota</string>
+
+    <array name="generos">
+        <item>Macho</item>
+        <item>Hembra</item>
+    </array>
+</resources>
